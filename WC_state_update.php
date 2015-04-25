@@ -2,7 +2,7 @@
 /*
 Plugin Name: WooCommerce State Update
 Plugin URI: http://northwestmediacollective.com
-Description: Use 2 letter states in Woocommerce checkout.
+Description: Use 2 letter states in the Woocommerce checkout.
 Version: 0.3
 Author: Travis Buck
 Author URI: http://northwestmediacollective.com
